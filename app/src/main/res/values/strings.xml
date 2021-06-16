@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="quiz_1">Which is the largest country in the world?</string>
+    <string name="quiz_1_choice_1">Russia</string>
+    <string name="quiz_1_choice_2">USA</string>
+    <string name="quiz_2_choice_1">Japan</string>
+    <string name="quiz_2_choice_2">China</string>
+    <string name="quiz_2">Which country has the most population ?</string>
+    <string name="quiz_3">Which cities are in California?</string>
+    <string name="quiz_3_choice_1">San Francisco</string>
+    <string name="quiz_3_choice_2">New York</string>
+    <string name="quiz_3_choice_3">Los Angeles</string>
+    <string name="quiz_3_choice_4">Miami</string>
+    <string name="quiz_4">Which city is the capital of China?</string>
+    <string name="submit">submit</string>
+</resources>

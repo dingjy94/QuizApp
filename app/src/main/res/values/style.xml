@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="QuizText">
+        <item name="android:textSize">@dimen/large_text</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="ChoiceText">
+        <item name="android:textSize">@dimen/small_text</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="QuizCard" parent="CardView">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_margin">@dimen/padding</item>
+        <item name="cardCornerRadius">@dimen/padding</item>
+        <item name="android:layout_gravity">center</item>
+    </style>
+
+    <style name="QuizLayout">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">@dimen/padding</item>
+    </style>
+
+    <style name="EntryBox">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/box_height</item>
+        <item name="android:inputType">text</item>
+    </style>
+
+    <style name="SubmitBtn">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="backgroundTint">@color/light_green</item>
+        <item name="background">@drawable/button_background</item>
+        <item name="android:capitalize">characters</item>
+        <item name="android:layout_margin">@dimen/padding</item>
+    </style>
+</resources>
